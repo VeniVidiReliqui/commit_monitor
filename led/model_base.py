@@ -1,4 +1,5 @@
 """
+Base class for LED model classes.
 """
 import abc
 

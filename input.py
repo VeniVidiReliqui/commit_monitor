@@ -6,9 +6,9 @@ from gpiozero import Button
 from time import sleep
 
 button_name_map = {5: "A",
-              6: "B",
-              16: "X",
-              24: "Y"}
+                   6: "B",
+                   16: "X",
+                   24: "Y"}
 
 class BtnEnum:
     BTN_A = 0
